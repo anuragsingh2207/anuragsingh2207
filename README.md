@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anuragsingh2207/anuragsingh2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 - 🔭 I’m currently working on ... Cloud, DevOps, Python
 - 🌱 I’m currently learning ... Python Libraries NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit Learn
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... The majority of people plug in their USB wrong.
 
--->
+
