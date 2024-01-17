@@ -2,9 +2,9 @@
 
 ![dog-samoyed-head-tilt](https://github.com/anuragsingh2207/anuragsingh2207/blob/main/readme-files/samoed.gif?raw=true)
 
-- 🔭 I’m currently working on ... AWS, Google Cloud, DevOps, Python, Machine Learning, Docker, Kubernetes, Terraform, GitHub Actions, Linux
+- 🔭 I’m currently working on ... Google Cloud, DevOps, Python, Machine Learning, Docker, Kubernetes, Terraform, GitHub Actions, Linux
 - 🌱 I’m currently learning ... Python Libraries such as NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit Learn
-- 👯 I’m looking to collaborate on ... Python
+- 👯 I’m looking to collaborate on ... Python, AWS
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... AWS, Google Cloud, DevOps, Python, Docker, Kubernetes, Terraform, GitHub Actions, Linux, Bash scripting
 - 📫 How to reach me: ...  [LinkedIn](https://www.linkedin.com/in/anurag-singh-2207/)
